@@ -198,8 +198,8 @@ a {
 /* Blue box content */
 .blue-box {
   text-align: center;
-  color: #ffffff; /* White text inside the blue box */
-  margin-bottom: 20px; /* Spacing between the text and button */
+  color: #ffffff; 
+  margin-bottom: 20px; 
 }
 
 .section-1 p,
